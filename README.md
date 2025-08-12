@@ -12,7 +12,7 @@ Booking System: Facilitates the process of ticket booking, reservation, and trac
 Entity-Relationship Diagram (ERD): Visual representation of the database structure and relationships between tables.
 
 Project Structure
-Group6_Railway_Management_System.sql: Contains the SQL scripts for creating and managing the railway database.
+Railway_Management_System.sql: Contains the SQL scripts for creating and managing the railway database.
 
 finalERD.JPG: A diagram showing the relationships between various entities in the database.
 
@@ -28,7 +28,7 @@ Import the database:
 
 Use a SQL Server or compatible database management system.
 
-Run the Group6_Railway_Management_System.sql script to set up the database.
+Run the Railway_Management_System.sql script to set up the database.
 
 Refer to the ERD:
 
